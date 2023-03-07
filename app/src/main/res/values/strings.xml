@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name" translatable="false">FoodRecipe</string>
+
+    <string-array name="Recipes">
+        <item>Burger</item>
+        <item>Tortilla</item>
+        <item>Burrito</item>
+        <item>Spaghetti Bolognese</item>
+        <item>Pizza</item>
+        <item>Pasta With Shrimps</item>
+        <item>Pasta With Chicken</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>Time : 30 min\n\n
+
+        Ingredients:\n
+            1 small onion, diced\n
+            500g good-quality beef mince\n
+            1 egg\n
+            1 tbsp vegetable oil\n
+            4 burger buns\n\n
+
+            Step 1:\n
+            Tip 500g beef mince into a bowl with 1 small diced onion and 1 egg, then mix.\n\n
+            Step 2:\n
+            Divide the mixture into four. Lightly wet your hands.
+            Carefully roll the mixture into balls, each about the size of a tennis ball.\n\n
+            Step 3:\n
+            Set in the palm of your hand and gently squeeze down to flatten into patties about 3cm thick.
+            Make sure all the burgers are the same thickness so that they will cook evenly.\n\n
+            Step 4:\n
+            Put on a plate, cover with cling film and leave in the fridge to firm up for at least 30 mins.\n\n
+            Step 5:\n
+            Heat the barbecue to medium hot (there will be white ash over the red hot coals – about 40 mins after lighting).
+            Lightly brush one side of each burger with vegetable oil.\n\n
+            Step 6:\n
+            Place the burgers, oil-side down, on the barbecue. Cook for 5 mins until the meat is lightly charred.
+            Don’t move them around or they may stick.\n\n
+            Step 7:\n
+            Oil the other side, then turn over using tongs.
+            Don’t press down on the meat, as that will squeeze out the juices.\n\n
+            Step 8:\n
+            Cook for 5 mins more for medium. If you like your burgers pink in the middle, cook 1 min less each side.
+            For well done, cook 1 min more.\n\n
+            Step 9:\n
+            Take the burgers off the barbecue. Leave to rest on a plate so that all the juices can settle inside.\n\n
+            Step 10:\n
+            Slice four burger buns in half. Place, cut-side down, on the barbecue rack and toast for 1 min until they are lightly charred.
+            Place a burger inside each bun, then top with your choice of accompaniment.\n\n
+            Thats all!\n</item>
+        <item>Time : 35 min\n\n
+        Ingredients:\n
+            8 oz. boneless, skinless chicken breast halves, cut into 1/2-inch pieces\n
+            2 tsp. fajita seasoning\n
+            3 Tbsp. light cream cheese or chive cream cheese, softened\n
+            2 (10-inch) flour tortillas\n
+            1/2 cup packed shredded lettuce\n
+            1/4 cup (1 oz.) Sargento® Shredded Sharp Cheddar Cheese - Fine Cut\n
+            1/4 cup salsa\n\n
+            Step 1:\n
+            Heat medium skillet over medium-high heat; coat with non-stick cooking spray.\n
+            Add chicken; sprinkle fajita seasoning over chicken.\n
+            Cook, stirring frequently, 4 minutes or until chicken is cooked through.\n
+            Set aside to cool.\n\n
+            Step 2:\n
+            Spread cream cheese over tortillas; top with lettuce, chicken and cheese.\n
+            Fold two outside edges over filling; roll up burrito-style.\n
+            Cut diagonally in half. Serve with salsa.\n\n
+            Enjoy it!\n</item>
+        <item>Time : 40 min\n\n
+        Ingredients:\n
+            6 Flour Tortillas\n
+            Refried Beans\n
+            Mild Thick N Chunky Tomato Salsa\n
+            250g cooked rice\n
+            500g leftover chicken, shredded\n
+            250g grated cheese\n
+            1 ripe avocado\n\n
+            Step 1:\n
+            Pierce the soft flour tortillas package and warm it in the microwave for 35-45 seconds.\n\n
+            Step 2:\n
+            Using the back of a spoon, spread a thin layer of the refried beans over each tortilla, almost to the edge. The refried beans help to hold the ingredients and tortillas together.\n\n
+            Step 3:\n
+            Add cooked rice, again spreading with the back of a spoon, leaving a gap of about 3cm from the edge of the tortilla.\n\n
+            Step 4:\n
+            On top of the rice, add sliced avocado forming a rectangular shaped “column”. Fresh ingredients like lettuce, red cabbage, or tomato work great, too. \n\n
+            Step 5:\n
+            Use a fork to shred the leftover chicken into bite-sized chunks and layer on top of the column of avocado.\n\n
+            Step 6:\n
+            Alternatively, to prepare uncooked chicken, place oil in large frying pan over a medium heat, add the chicken and cook until the outside is golden and the meat thoroughly cooked.\n\n
+            Step 7:\n
+            Spoon a dollop of salsa on top of the chicken.\n\n
+            Step 8:\n
+            Sprinkle grated chicken on top of the salsa.\n\n
+            Step 9:\n
+            Roll your burrito\n\n
+            Thats all!\n</item>
+        <item>Time : 40 min\n\n
+        Ingredients:\n
+            2 tbsp olive oil\n
+            400g/14oz beef mince\n
+            1 onion, diced\n
+            2 garlic cloves, chopped\n
+            100g/3½oz carrot, grated\n
+            2 x 400g tin chopped tomatoes\n
+            400ml/14fl oz stock (made from stock cube. Ideally beef, but any will do)\n
+            400g/14oz dried spaghetti\n
+            salt and pepper\n\n
+            Step 1:\n
+            Heat a large saucepan over a medium heat. Add a tablespoon of olive oil and once hot add the beef mince and a pinch of salt and pepper.
+            Cook the mince until well browned over a medium-high heat (be careful not to burn the mince.
+            It just needs to be a dark brown colour). Once browned, transfer the mince to a bowl and set aside.\n\n
+            Step 2:\n
+            Add another tablespoon of oil to the saucepan you browned the mince in and turn the heat to medium.
+            Add the onions and a pinch of salt and fry gently for 5-6 minutes, or until softened and translucent. Add the garlic and cook for another 2 minutes.
+            Add the grated carrot then pour the mince and any juices in the bowl back into the saucepan.\n\n
+            Step 3:\n
+            Add the tomatoes to the pan and stir well to mix. Pour in the stock, bring to a simmer and then reduce the temperature to simmer gently for 45 minutes,
+            or until the sauce is thick and rich. Taste and adjust the seasoning as necessary.\n\n
+            Step 4:\n
+            When ready to cook the spaghetti, heat a large saucepan of water and add a pinch of salt.
+            Cook according to the packet instructions.
+            Once the spaghetti is cooked through, drain and add to the pan with the bolognese sauce.
+            Mix well and serve.\n\n
+            Ready to eat!\n</item>
+        <item>Time : 40 min\n\n
+        Ingredients:\n\n
+            For the base\n\n
+            300g strong bread flour\n
+            1 tsp instant yeast (from a sachet or a tub)\n
+            1 tsp salt\n
+            1 tbsp olive oil, plus extra for drizzling\n\n
+            For the tomato sauce\n\n
+            100ml passata\n
+            handful fresh basil or 1 tsp dried\n
+            1 garlic clove, crushed\n\n
+            For the topping\n\n
+            125g ball mozzarella, sliced\n
+            handful grated or shaved parmesan (or vegetarian alternative)\n
+            handful of cherry tomatoes, halved\n\n
+            Step 1:\n
+            Make the base: Put the flour into a large bowl, then stir in the yeast and salt.
+            Make a well, pour in 200ml warm water and the olive oil and bring together with a wooden spoon until you have a soft,
+            fairly wet dough. Turn onto a lightly floured surface and knead for 5 mins until smooth. Cover with a tea towel and set aside.
+            You can leave the dough to rise if you like, but it’s not essential for a thin crust.\n\n
+            Step 2:\n
+            Make the sauce: Mix the passata, basil and crushed garlic together, then season to taste.
+            Leave to stand at room temperature while you get on with shaping the base.\n\n
+            Step 3:\n
+            Roll out the dough: if you’ve let the dough rise, give it a quick knead, then split into two balls.
+            On a floured surface, roll out the dough into large rounds, about 25cm across, using a rolling pin.
+            The dough needs to be very thin as it will rise in the oven. Lift the rounds onto two floured baking sheets.\n\n
+            Step 4:\n
+            Top and bake: heat the oven to 240C/220C fan/gas 8.
+            Put another baking sheet or an upturned baking tray in the oven on the top shelf.
+            Smooth sauce over bases with the back of a spoon. Scatter with cheese and tomatoes, drizzle with olive oil and season.
+            Put one pizza, still on its baking sheet, on top of the preheated sheet or tray.
+            Bake for 8-10 mins until crisp. Serve with a little more olive oil, and basil leaves if using. Repeat step for remaining pizza.\n\n
+            Delicious!\n</item>
+        <item>Time : 30 min\n\n
+        Ingredients:\n
+            8 ounces fettuccine\n
+            1 pound medium shrimp, peeled and deveined\n
+            Kosher salt and freshly ground black pepper, to taste\n
+            8 tablespoons (1 stick) unsalted butter, divided\n
+            4 cloves garlic, minced\n
+            1/2 teaspoon dried oregano\n
+            1/2 teaspoon crushed red pepper flakes\n
+            2 cups baby arugula\n
+            1/4 cup freshly grated Parmesan\n
+            2 tablespoons chopped fresh parsley leaves\n\n
+            Step 1:\n
+            In a large pot of boiling salted water,
+            cook pasta according to package instructions; drain well.\n\n
+            Step 2:\n
+            Season shrimp with salt and pepper, to taste; set aside.\n\n
+            Step 3:\n
+            Melt 2 tablespoons butter in a large skillet over medium high heat.
+            Add garlic, oregano and red pepper flakes, and cook, stirring frequently,
+            until fragrant, about 1-2 minutes.\n\n
+            Step 4:\n
+            Add shrimp and cook, stirring occasionally, until pink, about 2-3 minutes; set aside.\n\n
+            Step 5:\n
+            Melt remaining 6 tablespoons butter in the skillet. Stir in pasta, arugula and Parmesan
+            until arugula begins to wilt, about 2 minutes. Stir in shrimp.\n\n
+            Step 6:\n
+            Serve immediately, garnished with parsley, if desired.\n\n
+            Thats all!\n</item>
+        <item>Time : 35 min\n\n
+        Ingredients:\n
+            2-3 boneless skinless chicken breasts, diced into bite sized pieces\n
+            1 tsp Italian seasoning\n
+            1/2 tsp garlic powder\n
+            1 medium yellow onion, minced\n
+            3 cloves garlic, minced\n
+            16 oz dried short-cut pasta\n
+            24 oz jar of your favorite marinara sauce\n
+            water to fill empty marinara sauce jar\n
+            1 cup mozzarella cheese\n
+            1/2 cup parmesan cheese\n
+            salt and pepper, to taste\n
+            additional dried Italian seasoning, optional\n
+            fresh parsley and/or basil, minced for garnish\n\n
+            Step 1:\n
+            To a large pot or skillet (I used my dutch oven),
+            add a drizzle of olive oil and heat over MED-HIGH heat.
+            Add chicken, season with salt, pepper,
+            Italian seasoning and garlic powder.
+            Cook about 5 minutes, until chicken is most of the way cooked through.
+            Remove to a plate.\n\n
+            Step 2:\n
+            Add onion and garlic to the pot and cook about 2-3 minutes, until soft.
+            Pour in marinara sauce, fill up empty sauce jar with water and add to the pot.
+            Bring to a boil, then reduce to a strong simmer.\n\n
+            Step 3:\n
+            Add chicken and pasta, stir, then cover and cook for 10-15 minutes, until pasta is cooked to your liking.
+            Stir in parmesan cheese and 1/4 cup of the mozzarella cheese.\n\n
+            Step 4:\n
+            Sprinkle remaining 3/4 cup mozzarella cheese on top of the dish and cook another 2-3 minutes,
+            until cheese is melted and gooey.\n\n
+            Step 5:\n
+            Sprinkle with additional Italian seasoning if desired, and garnish with parsley or basil.\n\n
+            Tasty\n</item>
+    </string-array>
+</resources>
